@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "Breakout_boards")(type "KiCad")(uri "C:/Users/mahie/OneDrive - UGent/AnTARES/Schematics/Libraries/Breakout_boards.kicad_sym")(options "")(descr ""))
+  (lib (name "Breakout_boards")(type "KiCad")(uri "C:/Users/mahie/OneDrive - UGent/AnTARES/Github/AnTARES-Electrical/Schematics/Libraries/Breakout_boards.kicad_sym")(options "")(descr ""))
 )
